@@ -1,0 +1,1 @@
+/home/nimish/drone_ws/devel/.private/darknet_ros/lib/pkgconfig/darknet_ros.pc
